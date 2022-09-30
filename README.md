@@ -1,6 +1,6 @@
 # Introduction-to-Machine-Learning
 
-Hands on Machine Learning assignments from EECS - 658 taught by Professor David Johnson at the University of Kansas. I'm uploading them only for my GitHub profile. 
+Hands on Machine Learning assignments from EECS - 658 taught by Professor David Johnson(https://people.eecs.ku.edu/~davidojo/) at the University of Kansas. I'm uploading them only for my GitHub profile. 
 Topics covered in the course:
   1. ML overview
   2. Supervised Learning
