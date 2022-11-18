@@ -1,0 +1,9 @@
+1. According to your results (i.e., elbow_k), are there 3 species of iris represented in the iris data set?
+Ans. Yes - the clustering was able to classify all the sepcies
+
+2a: According to your AIC results (i.e., aic_elbow_k), are there 3 species of iris represented in the iris data set?
+Ans. According to confusion matrix - no because it was able to classify only 140 of the flowers.
+
+2b:According to your BIC results (i.e., bic_elbow_k), are there 3 species of iris represented in the iris data set?
+Ans. Yes - all 150 flowers were classified.
+
